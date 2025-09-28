@@ -9,6 +9,6 @@ Kql queries the following persistence mechanisms:<br />
 >Service installation (will include Service registry ImagePath modifications soon)<br />
 >File creations in startup folder<br />
 >Modifications to File Association (https://attack.mitre.org/techniques/T1546/001/)<br />
->Wmi subscriptions<br />
+>Wmi Subscriptions<br />
 >Group Manipulation<br />
 >User Manipulation<br />
