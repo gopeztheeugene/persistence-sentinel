@@ -1,4 +1,4 @@
-# persistence-sentinel-check
+# persistence-sentinel
 Runs a series of kql queries using the Az cmdlets to inspect persistence on compromised host/s. Allows an option to enter known compromised user/s and will then query devices the user/s logged into(depending on entered date).
 
 
