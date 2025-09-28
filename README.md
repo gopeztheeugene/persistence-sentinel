@@ -3,7 +3,7 @@ Runs a series of kql queries using the Az cmdlets to inspect persistence on comp
 
 
 Kql queries the following persistence mechanisms:<br />
->Scheduled task creations and updates from defender's telemetry and collected security events<br />
+>Scheduled task creations and updates<br />
 >Run and RunOnce Registry Keys<br />
 >WinLogon Registry Key<br />
 >Service installation (will include Service registry ImagePath modifications soon)<br />
