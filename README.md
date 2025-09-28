@@ -1,6 +1,7 @@
 # persistence-sentinel-check
 Runs a series of kql queries to inspect persistence on compromised host/s by using the Az cmdlets. Allows an option to enter known compromised user/s and will then query devices the user/s logged into(depends on entered date).
-<br />
+
+
 ***Kql queries the following persistence mechanisms:<br />
 a. Scheduled task creations and updates from defender's telemetry and collected security events<br />
 b. Run and RunOnce Registry Keys<br />
